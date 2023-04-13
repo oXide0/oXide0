@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 🖐<br>I'm Nazar!<br>I'm frontend developer studying in Technical University of Košice.<br>I'm currently learning React library.<br>
+Hello 🖐<br>I'm Nazar!<br>I'm frontend developer studying at the Technical University of Košice.<br>I'm currently learning React library.<br>
 
 
 ## 🌐 Socials:
