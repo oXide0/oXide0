@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello 🖐<br>I'm Nazar!<br>I'm a frontend developer studying at the Technical University of Košice.<br>I am developing in the direction of web development, studying modern technologies.
+👋 Hello there! I'm Nazar, a passionate developer currently studying at the Technical University of Košice 🎓. By day, I craft captivating user experiences as a frontend developer at Everlution Software 💻.
+
+🌱 I'm deeply interested in the ever-evolving realm of web development, constantly seeking to expand my skills and delve deeper into the intricacies of building for the web. From crafting responsive layouts to optimizing performance, I thrive on the challenges and possibilities that web development offers.
+
+🚀 Let's connect and collaborate on exciting projects that push the boundaries of web development together! Whether it's building sleek interfaces or diving into the latest frameworks and technologies, I'm eager to learn and grow alongside the vibrant developer community. Reach out, and let's create something awesome! 🌟
 
 
 ## 🌐 Socials:
