@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Nazar, a passionate software engineer currently studying at the [Technical University of Košice](https://www.tuke.sk/wps/portal/tuke) 🎓. By day, I craft captivating user experiences as a Full-stack Developer at [Everlution Software](https://www.everlution.com/) 💻.
+👋 Hello there! I'm Nazar, a passionate software engineer currently studying at the [Technical University of Košice](https://www.tuke.sk/wps/portal/tuke) 🎓. By day, I craft captivating user experiences as a Full-stack Developer 💻.
 
 🌱 I'm deeply interested in the ever-evolving realm of web development, constantly seeking to expand my skills and delve deeper into the intricacies of building for the web. From crafting responsive layouts to optimizing performance, I thrive on the challenges and possibilities that web development offers.
 
