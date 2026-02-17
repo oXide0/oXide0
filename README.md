@@ -2,7 +2,7 @@
 
 ## 👋 Hello!
 
-I'm a passionate **Software Engineer** with over **3 years of experience** in software development, specializing in **modern web technologies**. I focus on building **scalable**, **high-performance**, and **user-friendly** web applications. My core strengths include **React.js**, **Node.js**, and **Next.js**, but I'm also comfortable working across a wide range of technologies and always eager to learn more.
+I'm a passionate **Software Engineer** with over **4 years of experience** in software development, specializing in **modern web technologies**. I focus on building **scalable**, **high-performance**, and **user-friendly** web applications. My core strengths include **React.js**, **Node.js**, and **Next.js**, but I'm also comfortable working across a wide range of technologies and always eager to learn more.
 
 ---
 
